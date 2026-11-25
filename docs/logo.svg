@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">JustyBase NetezzaSQL JDBC</title>
+  <desc id="logoDesc">A geometric teal N monogram on a cream circle with a lime ring, set in a navy rounded square.</desc>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="#0B2A5B"/>
+  <rect x="27" y="27" width="458" height="458" rx="101" fill="none" stroke="#173E73" stroke-width="3"/>
+  <circle cx="256" cy="256" r="168" fill="#F7F5EA"/>
+  <circle cx="256" cy="256" r="168" fill="none" stroke="#A3C614" stroke-width="10"/>
+  <path d="M178 160H228L334 352H284Z M178 160H228V352H178Z M284 160H334V352H284Z" fill="#0F766E"/>
+</svg>
